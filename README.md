@@ -3,7 +3,7 @@
 ```yaml
 nombre: Edwin Lustre
 rol: Desarrollador Backend / Full Stack Junior
-ubicación: 🌎
+ubicación: Oaxaca, México
 enfoque: Soluciones escalables, mantenibles y orientadas al usuario
 ```
 
