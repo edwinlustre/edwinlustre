@@ -62,12 +62,13 @@ enfoque: Backend · APIs REST · Full Stack · Bases de Datos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edwinlustre&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinlustre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=edwinlustre&show_icons=true&theme=github_dark&hide_border=true" height="180" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinlustre&layout=compact&theme=github_dark&hide_border=true" height="180" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edwinlustre\&theme=github-dark-blue\&hide_border=true\&background=0D1117\&ring=1F6FEB\&fire=58A6FF\&currStreakLabel=58A6FF\&sideLabels=8B949E\&dates=8B949E)](https://git.io/streak-stats)
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=edwinlustre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
@@ -80,11 +81,10 @@ enfoque: Backend · APIs REST · Full Stack · Bases de Datos
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwinlustre/edwinlustre/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwinlustre/edwinlustre/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/edwinlustre/edwinlustre/output/github-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/edwinlustre/edwinlustre/output/github-snake.svg" />
 </picture>
 
 </div>
-
 ---
 
 <div align="center">
