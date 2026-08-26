@@ -62,13 +62,9 @@ enfoque: Backend · APIs REST · Full Stack · Bases de Datos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edwinlustre&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+<img src="./profile/stats.svg" alt="Estadísticas de GitHub" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinlustre&layout=compact&theme=github_dark&hide_border=true" height="180" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=edwinlustre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="./profile/top-langs.svg" alt="Lenguajes más usados" height="180" />
 
 </div>
 
