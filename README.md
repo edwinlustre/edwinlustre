@@ -68,7 +68,7 @@ enfoque: Backend · APIs REST · Full Stack · Bases de Datos
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=edwinlustre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=edwinlustre&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
@@ -85,6 +85,7 @@ enfoque: Backend · APIs REST · Full Stack · Bases de Datos
 </picture>
 
 </div>
+
 ---
 
 <div align="center">
