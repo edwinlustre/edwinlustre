@@ -4,10 +4,10 @@
 nombre: Edwin Lustre Rodríguez
 rol: Desarrollador Backend / Full-Stack Junior
 ubicación: Oaxaca, México
-enfoque: Backend · APIs REST · Full Stack · Bases de Datos
+enfoque: Backend · APIs REST · Arquitectura Web · Bases de Datos
 ```
 
-> Desarrollador Backend / Full-Stack Junior enfocado en la construcción de **APIs REST**, **aplicaciones web** y **sistemas empresariales**. Trabajo principalmente con Python, C#, .NET y JavaScript, desarrollando soluciones que integran lógica de negocio, autenticación, bases de datos relacionales y arquitecturas frontend-backend. Me interesa construir software **funcional, mantenible y orientado a resolver necesidades reales**.
+> Desarrollador Backend / Full-Stack Junior apasionado por la creación de APIs robustas, aplicaciones web eficientes y soluciones tecnológicas escalables. Trabajo principalmente con Python, C#, .NET y JavaScript, conectando la lógica de negocio, la seguridad y las bases de datos con interfaces funcionales. Me motiva construir software limpio, mantenible y enfocado en resolver problemas reales, con la versatilidad de adaptarme a distintos entornos de desarrollo y equipos multidisciplinarios.
 
 ---
 
